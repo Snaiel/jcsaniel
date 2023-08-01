@@ -31,3 +31,11 @@ img {
     -webkit-filter: brightness(70%);
     filter: brightness(70%);
 }
+
+.social {
+    color: #BCBCBC;
+}
+
+.social:hover {
+    color: #858585;
+}
